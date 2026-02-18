@@ -1,3 +1,6 @@
+//算法由AI提供
+//仅供测试，严禁用于生产环境
+//本文件在CC-BY-4.0许可协议下分发:https://creativecommons.org/licenses/by/4.0/legalcode.zh-hans
 #include <iostream>
 #include <cmath>
 #include <unordered_map>
